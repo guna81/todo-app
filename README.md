@@ -6,16 +6,6 @@ A simple Todo application integrated with calendar, built with HTML, CSS, and Ja
 
 ![todo app](./screenshots/image.png "todo app")
 
-<!-- ## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license) -->
-
 ## Features
 
 - Add, edit, and delete tasks
